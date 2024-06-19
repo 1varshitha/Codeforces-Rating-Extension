@@ -2,4 +2,4 @@
 
 This extension tells your old Codeforces rating and present Codeforces rating. It also tells when your rating was last updated.
 
-![Codeforces](Screenshot-2024-06-19-190246.png)
+![Codeforces](Screenshot 2024-06-19 190246.png)
