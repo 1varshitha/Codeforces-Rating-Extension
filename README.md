@@ -1,4 +1,5 @@
-# Codeforces-Rating-Extension
-This extension tells your old codeforces rating and present codeforces rating. It also tells when was your rating updated last time.
+# Codeforces Rating Extension
 
-![codeforces](images/Screenshot-2024-06-19-190246.png)
+This extension tells your old Codeforces rating and present Codeforces rating. It also tells when your rating was last updated.
+
+![Codeforces](Screenshot-2024-06-19-190246.png)
